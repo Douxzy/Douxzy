@@ -1,5 +1,5 @@
 # 💫 A propos de moi :
-🔭 Développeur Web FullStack<br>👯 Formation chez O'Clock<br>💬 J'ai 18 ans <br>
+🔭 Développeur Web FullStack<br>👯 Formation chez coding factory <br>💬 J'ai 18 ans <br>
 
 
 ## 🌐 Socials:
